@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devweb-containers
-        image: cho010515/myweb:1.0
+        image: cho010515/devweb:1.0
         ports:
         - containerPort: 80
